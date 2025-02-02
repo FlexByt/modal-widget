@@ -1,0 +1,6 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+
+  "include": ["../wp-modal-widget/src/**/*"],
+  "exclude": ["../wp-modal-widget/node_modules/*", "../wp-modal-widget/__sapper__/*", "../wp-modal-widget/public/*"]
+}
