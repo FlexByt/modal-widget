@@ -238,7 +238,7 @@
 								{#if platform === ReviewPlatform.TOUR_RADAR}
 									<img
 										style="width: 16px; border-radius: 5px"
-										src="https://reviews-jet.sfo3.cdn.digitaloceanspaces.com/@FlexByt/logos/tourradar.png"
+										src="images/tourradar.png"
 										alt="Tourradar"
 									/>
 								{/if}

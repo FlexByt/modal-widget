@@ -1,3 +1,5 @@
+const production = !process.env.ROLLUP_WATCH;
+
 export default {
   // input: ['src/main.ts', 'src/widgets/TestWidget/index.ts'],
   // input: "src/main.ts",
